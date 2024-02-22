@@ -1,0 +1,23 @@
+nav {
+    background-color: #80008080;
+    height: 50px;
+    padding: 10px;
+    position: relative;
+}
+
+.button_container {
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+
+button {
+    color: #fff;
+    background: #8b2ecc;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.button_container button:nth-child(1) {
+    margin-left: 20px;
+}

@@ -1,0 +1,7 @@
+.container {
+    box-sizing: border-box;
+    margin: 10px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
